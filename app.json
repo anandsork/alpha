@@ -6,7 +6,7 @@
   "keywords"   : ["node", "react", "webpack"],
   "buildpacks" : [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs#v106"
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs#v183"
     }
   ],
   "env": {
