@@ -9,10 +9,7 @@
       "url": "https://github.com/heroku/heroku-buildpack-nodejs#v183"
     }
   ],
-  "env": {
-    "NPM_CONFIG_PRODUCTION": {
-      "description": "NPMs env",
-      "generator"  : false
-    },
-  },
+  "engines": {
+    "npm": "6.x"
+  }
 }
